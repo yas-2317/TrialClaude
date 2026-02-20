@@ -52,6 +52,37 @@ GitHub Pages でホスティングされています。
 
 ---
 
+## インストール手順
+
+### 前提条件
+
+- Git がインストールされていること
+- モダンブラウザ（Chrome / Firefox / Edge / Safari）
+
+### 手順
+
+**1. リポジトリをクローン**
+
+```bash
+git clone https://github.com/yas-2317/TrialClaude.git
+```
+
+**2. ディレクトリに移動**
+
+```bash
+cd TrialClaude
+```
+
+**3. ブラウザで開く**
+
+```bash
+open index.html   # macOS
+start index.html  # Windows
+xdg-open index.html  # Linux
+```
+
+> サーバー不要・依存パッケージなしで動作します。
+
 ## ローカルでの実行方法
 
 `index.html` をブラウザで開くだけで動作します。
