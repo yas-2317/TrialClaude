@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C \"c:/Users/ychik/OneDrive/Files/01_Business/02_AIagent/TrialClaude\" status)",
+      "Bash(git -C \"c:/Users/ychik/OneDrive/Files/01_Business/02_AIagent/TrialClaude\" remote -v)",
+      "Bash(git -C:*)"
+    ]
+  }
+}
